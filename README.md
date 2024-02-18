@@ -28,6 +28,12 @@ Please make sure to replace the video path in the scripts with the path to your 
 - OpenCV
 - Ultralytics
 
+## Credits
+
+The pretrained models used in this project for basketball and pose detection were obtained from this [GitHub repository](https://github.com/ayushpai/AI-Basketball-Referee).
+
 ## Contributing
 
 Contributions are welcome. Please feel free to submit a pull request or open an issue.
+
+---
